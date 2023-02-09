@@ -1,5 +1,4 @@
 Flask
-sklearn
 numpy
 matplotlib
 dnspython==2.2.1
@@ -18,4 +17,3 @@ pandas
 PyYAML
 numpy
 scikit-learn
-apache-airflow
